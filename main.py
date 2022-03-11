@@ -28,3 +28,4 @@ browser.get(address[0])
 # browser.get(address[1])
 browser.set_window_size(MONITOR_WIDTH // 2, MONITOR_HEIGHT)  # ウインドウサイズを画面半分にする
 browser.set_window_position(MONITOR_WIDTH // 2, 0)  # 画面右半分にブラウザ表示
+# ここから追加分
